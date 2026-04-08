@@ -6,14 +6,15 @@ It covers three areas — SQL, Spreadsheets, and Python.
 
 ## Folder Structure
 PlatinumRx_Assignment/
-├── sql/
+Data_Analyst_Assignment/
+├── SQL/
 │   ├── 01_Hotel_Schema_Setup.sql
 │   ├── 02_Hotel_Queries.sql
 │   ├── 03_Clinic_Schema_Setup.sql
 │   └── 04_Clinic_Queries.sql
-├── spreadsheets/
+├── Spreadsheets/
 │   └── Ticket_Analysis.xlsx
-├── python/
+├── Python/
 │   ├── 01_Time_Converter.py
 │   └── 02_Remove_Duplicates.py
 └── README.md
