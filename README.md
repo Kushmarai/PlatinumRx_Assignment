@@ -5,8 +5,8 @@ This repository contains my solutions for the PlatinumRx Data Analyst assignment
 It covers three areas — SQL, Spreadsheets, and Python.
 
 ## Folder Structure
-Data_Analyst_Assignment/
 ```
+Data_Analyst_Assignment/
 ├── SQL/
 │   ├── 01_Hotel_Schema_Setup.sql
 │   ├── 02_Hotel_Queries.sql
