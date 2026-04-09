@@ -5,7 +5,7 @@ This repository contains my solutions for the PlatinumRx Data Analyst assignment
 It covers three areas — SQL, Spreadsheets, and Python.
 
 ## Folder Structure
-PlatinumRx_Assignment/
+```
 Data_Analyst_Assignment/
 ├── SQL/
 │   ├── 01_Hotel_Schema_Setup.sql
@@ -18,7 +18,7 @@ Data_Analyst_Assignment/
 │   ├── 01_Time_Converter.py
 │   └── 02_Remove_Duplicates.py
 └── README.md
-
+```
 ## Tools Used
 - SQL: MySQL 8.0 (MySQL Workbench)
 - Spreadsheet: Microsoft Excel
